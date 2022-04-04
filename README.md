@@ -1,3 +1,12 @@
+# Fork Notes
+
+This is my public fork of cookie-cutter django. I use this to start projects quickly. It includes updates and bug fixes and additional support for 
+
+django-silk
+jazzy admin
+htmx
+
+
 # Cookiecutter Django
 
 [![Build Status](https://img.shields.io/github/workflow/status/cookiecutter/cookiecutter-django/CI/master)](https://github.com/cookiecutter/cookiecutter-django/actions?query=workflow%3ACI)

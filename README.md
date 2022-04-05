@@ -1,9 +1,9 @@
 # Fork Notes
 
-This is my public fork of cookie-cutter django. I use this to start projects quickly. It includes updates and bug fixes and additional support for 
+This is my public fork of cookie-cutter django. I use this to start projects quickly. It includes updates and bug fixes and additional out of the box support for 
 
 django-silk
-jazzy admin
+jazzy-admin
 htmx
 
 
